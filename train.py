@@ -4,12 +4,6 @@
 # Copyright (c) Microsoft Corporation.
 # Licensed under the MIT license.
 # -*- coding: utf-8 -*-
-"""
-# @Time    : 2019/12/09
-# @Author  : xiaxia.wang
-# @File    : data_process.py
-# @Software: PyCharm
-"""
 
 import time
 import traceback

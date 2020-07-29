@@ -2,12 +2,7 @@
 # Licensed under the MIT license.
 
 # -*- coding: utf-8 -*-
-"""
-# @Time    : 2019/12/09
-# @Author  : xiaxia.wang
-# @File    : src/models/model.py
-# @Software: PyCharm
-"""
+
 import numpy as np
 import torch
 import torch.nn as nn

@@ -2,12 +2,6 @@
 # Licensed under the MIT license.
 
 # -*- coding: utf-8 -*-
-"""
-# @Time    : 2019/12/06
-# @Author  : xiaxia.wang
-# @File    : sem2SQL.py
-# @Software: PyCharm
-"""
 
 import argparse,json
 import traceback

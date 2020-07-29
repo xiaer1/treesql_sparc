@@ -1,9 +1,4 @@
-"""
-# @Time    : 2019/12/09
-# @Author  : xiaxia.wang
-# @File    : parse_args.py
-# @Software: PyCharm
-"""
+
 import os,sys
 import argparse
 import torch
