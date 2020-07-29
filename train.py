@@ -185,9 +185,9 @@ def build_optim(args,model):
 
 
 if __name__ == '__main__':
-    # arg_param = args.interpret_args()
+    arg_param = args.interpret_args()
     #TODO local debug
-    args_param = args.get_local_args()
+    #args_param = args.get_local_args()
     args = args.init_config(args_param)
 
     device = torch.device('cuda' if args.cuda and torch.cuda.is_available() else 'cpu')

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-folder="process_data"
+folder=$1
 
 if [ ! -d "$folder" ]; then
  mkdir "$folder"

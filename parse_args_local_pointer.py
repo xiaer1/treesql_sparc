@@ -109,7 +109,7 @@ def get_local_args():
         beam_size=1,
 
         seed=90,
-        save='wxx_test_model_local_pointer_feature',
+        save='model_local_pointer',
 
         predict_save = 'predict_sparc',
 
@@ -188,7 +188,7 @@ def get_local_args():
         discourse_level_lstm = True,
 
         resume =False,
-        cuda=False,
+        cuda=True,
         toy = False
 
     )
