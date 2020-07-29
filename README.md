@@ -8,7 +8,7 @@ SParC is a dataset for cross-domain Semantic Parsing in Context. It is the conte
 ### Preporcessing data
 Running the follow scripts, and then you will get preprocessed `pre_train.json`  and `pre_dev.json`.  
 ```
-run run_preprocess.sh path/to/save
+sh run_preprocess.sh path/to/save
 ```
 
 ### Train
