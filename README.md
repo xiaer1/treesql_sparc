@@ -1,4 +1,4 @@
-## An Interactive NL2SQL Approach With Reuse Strategy
+## An Interactive NL2SQL Approach With Reuse Strategy (The More You Ask, The Better You Query)
 
 ### Data
 Downlaod data from [SParC](https://yale-lily.github.io/sparc). And then put in `sparc/` folder.
